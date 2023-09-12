@@ -1,1 +1,1 @@
-# react-ts-tw-app
+git add . git remote add origin
